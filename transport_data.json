@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "student_id": "8994",
+            "name": "Kartik",
+            "grade": "12",
+            "address": "Mainpuri"
+        },
+        {
+            "student_id": "0001",
+            "name": "Akhand Sikarwar",
+            "grade": "12",
+            "address": "Awas vikas colony"
+        }
+    ],
+    "vehicles": [
+        {
+            "vehicle_id": "01",
+            "vehicle_type": "Bus",
+            "capacity": 50,
+            "assigned_students": []
+        },
+        {
+            "vehicle_id": "02",
+            "vehicle_type": "Bus",
+            "capacity": 50,
+            "assigned_students": [
+                
